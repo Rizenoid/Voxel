@@ -75,4 +75,4 @@ async def lekerdezes():
 bot.loop.create_task(lekerdezes())
 bot.run(token)
 
-#-- By: Gábor. Discord: Gábor#0001
+#-- By: Gábor.. Discord: Gábor#0001
